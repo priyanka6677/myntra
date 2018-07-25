@@ -1,5 +1,5 @@
 #include stdio.h
 void main()
 {
-systm.out.println("welcome to myntra")
+system.out.println("welcome to myntra")
 }
